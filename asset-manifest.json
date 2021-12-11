@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/truffle/static/css/main.54a0cdb6.chunk.css",
-    "main.js": "/truffle/static/js/main.f6478413.chunk.js",
-    "main.js.map": "/truffle/static/js/main.f6478413.chunk.js.map",
+    "main.js": "/truffle/static/js/main.f09c8308.chunk.js",
+    "main.js.map": "/truffle/static/js/main.f09c8308.chunk.js.map",
     "runtime-main.js": "/truffle/static/js/runtime-main.73796a5d.js",
     "runtime-main.js.map": "/truffle/static/js/runtime-main.73796a5d.js.map",
     "static/js/2.e7c19626.chunk.js": "/truffle/static/js/2.e7c19626.chunk.js",
     "static/js/2.e7c19626.chunk.js.map": "/truffle/static/js/2.e7c19626.chunk.js.map",
     "index.html": "/truffle/index.html",
-    "precache-manifest.2e041f6af4db9fdb4c328a1546513e2d.js": "/truffle/precache-manifest.2e041f6af4db9fdb4c328a1546513e2d.js",
+    "precache-manifest.4408ccd6557ef47f2f145541294ed599.js": "/truffle/precache-manifest.4408ccd6557ef47f2f145541294ed599.js",
     "service-worker.js": "/truffle/service-worker.js",
     "static/css/main.54a0cdb6.chunk.css.map": "/truffle/static/css/main.54a0cdb6.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.73796a5d.js",
     "static/js/2.e7c19626.chunk.js",
     "static/css/main.54a0cdb6.chunk.css",
-    "static/js/main.f6478413.chunk.js"
+    "static/js/main.f09c8308.chunk.js"
   ]
 }
