@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8691f4c605a7ebc02612bb95e5f3437",
+    "revision": "29b973c89a02183dcd6c2ad342880691",
     "url": "/truffle/index.html"
   },
   {
-    "revision": "e479e6631f68efb0e00b",
+    "revision": "cdf9416bee9daeec0c50",
     "url": "/truffle/static/css/main.54a0cdb6.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/truffle/static/js/2.e7c19626.chunk.js"
   },
   {
-    "revision": "e479e6631f68efb0e00b",
-    "url": "/truffle/static/js/main.7a56e5a9.chunk.js"
+    "revision": "cdf9416bee9daeec0c50",
+    "url": "/truffle/static/js/main.7657d2b3.chunk.js"
   },
   {
     "revision": "71bdd16da574b8a376fb",
