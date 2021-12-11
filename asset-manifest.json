@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/truffle/static/css/main.54a0cdb6.chunk.css",
-    "main.js": "/truffle/static/js/main.48bbbcfb.chunk.js",
-    "main.js.map": "/truffle/static/js/main.48bbbcfb.chunk.js.map",
+    "main.js": "/truffle/static/js/main.1790b214.chunk.js",
+    "main.js.map": "/truffle/static/js/main.1790b214.chunk.js.map",
     "runtime-main.js": "/truffle/static/js/runtime-main.73796a5d.js",
     "runtime-main.js.map": "/truffle/static/js/runtime-main.73796a5d.js.map",
-    "static/js/2.6d96f0c2.chunk.js": "/truffle/static/js/2.6d96f0c2.chunk.js",
-    "static/js/2.6d96f0c2.chunk.js.map": "/truffle/static/js/2.6d96f0c2.chunk.js.map",
+    "static/js/2.e7c19626.chunk.js": "/truffle/static/js/2.e7c19626.chunk.js",
+    "static/js/2.e7c19626.chunk.js.map": "/truffle/static/js/2.e7c19626.chunk.js.map",
     "index.html": "/truffle/index.html",
-    "precache-manifest.3cea32634570c6797059e2a5bce97a06.js": "/truffle/precache-manifest.3cea32634570c6797059e2a5bce97a06.js",
+    "precache-manifest.41aa10b94d0d2fe46b7b8c308fe51bf7.js": "/truffle/precache-manifest.41aa10b94d0d2fe46b7b8c308fe51bf7.js",
     "service-worker.js": "/truffle/service-worker.js",
     "static/css/main.54a0cdb6.chunk.css.map": "/truffle/static/css/main.54a0cdb6.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.73796a5d.js",
-    "static/js/2.6d96f0c2.chunk.js",
+    "static/js/2.e7c19626.chunk.js",
     "static/css/main.54a0cdb6.chunk.css",
-    "static/js/main.48bbbcfb.chunk.js"
+    "static/js/main.1790b214.chunk.js"
   ]
 }
