@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "18fbc13d5171d1a9c717e61f168c982e",
+    "revision": "c7c234c37e20a31b574208925d9c7fba",
     "url": "/truffle/index.html"
   },
   {
