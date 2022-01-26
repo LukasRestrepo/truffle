@@ -1,6 +1,5 @@
 import React from "react";
 import { newContextComponents } from "@drizzle/react-components";
-import logo from "./logo.png";
 
 const { AccountData, ContractData, ContractForm } = newContextComponents;
 
@@ -9,15 +8,14 @@ export default ({ drizzle, drizzleState }) => {
   return (
     <div className="App">
       <div>
-        <img src={logo} alt="drizzle-logo" />
-        <h1>Drizzle Examples</h1>
+        <h1>Kovan Storage</h1>
         <p>
-          Examples of how to get started with Drizzle in various situations.
+          Smart contracts via Kovan TestNet.
         </p>
       </div>
 
       <div className="section">
-        <h2>Active Account</h2>
+        <h2>Account</h2>
         <AccountData
           drizzle={drizzle}
           drizzleState={drizzleState}
@@ -42,6 +40,11 @@ export default ({ drizzle, drizzleState }) => {
           />
         </p>
         <ContractForm drizzle={drizzle} contract="SimpleStorage" method="set" />
+      </div>
+
+      <div className="section">
+        <h2>Data</h2>
+        <a class="badge badge-success" href="https://kovan.etherscan.io/address/0xfbbb46e12c8c639680b2e5468f7a07cc66e2f481" target="_blank">https://kovan.etherscan.io</a>
       </div>
     </div>
   );

@@ -15,7 +15,7 @@ const App = () => {
           const { drizzle, drizzleState, initialized } = drizzleContext;
 
           if (!initialized) {
-            return "Processing..."
+            return "Processing... please connect Wallet + Kovan Test Network"
           }
 
           return (
